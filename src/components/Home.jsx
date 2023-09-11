@@ -31,9 +31,6 @@ const Home = () => {
                 
                 Earum commodi sequi expedita porro, esse beatae, a eaque repudiandae dolore eligendi autem fugit, vel soluta voluptas aliquam atque iure consectetur ipsa iusto totam veniam accusamus deleniti ab sit. 
                 
-                Unde autem cumque fugit eaque ab dolore dolorem suscipit enim excepturi quos quisquam voluptas, minus velit exercitationem perspiciatis, provident vel labore? Perspiciatis ipsam illum reiciendis ad eum ex tempora natus harum praesentium odit qui nulla excepturi quis quidem magnam earum, minus laudantium perferendis velit dolores. 
-                
-                Nesciunt cum in alias exercitationem corrupti a esse fugit suscipit ipsam ad.
             </p>
         </div>
     </div>
